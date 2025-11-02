@@ -1,0 +1,9 @@
+{
+  "name": "Computherm B / ProSmart System",
+  "content_in_root": false,
+  "domains": ["prosmart"],
+  "homeassistant": "2025.10.4",
+  "zip_release": false,
+  "filename": "prosmart",
+  "version": "1.2",
+}
