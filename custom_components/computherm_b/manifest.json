@@ -1,0 +1,11 @@
+{
+  "domain": "computherm_b",
+  "name": "Computherm B / ProSmart System",
+  "version": "1.2",
+  "codeowners": ["@Pucur"],
+  "requirements": [],
+  "documentation": "https://github.com/Pucur/ProSmartSystem-ComputhermB-HomeAssistant",
+  "issue_tracker": "https://github.com/Pucur/ProSmartSystem-ComputhermB-HomeAssistant/issues",
+  "dependencies": [],
+  "config_flow": true
+}
