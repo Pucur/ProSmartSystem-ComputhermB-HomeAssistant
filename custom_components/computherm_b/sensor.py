@@ -9,7 +9,7 @@ import asyncio
 
 _LOGGER = logging.getLogger(__name__)
 DOMAIN = "computherm_b"
-UPDATE_INTERVAL = timedelta(seconds=60)
+UPDATE_INTERVAL = timedelta(seconds=30)
 
 
 async def async_setup_entry(hass, entry, async_add_entities):
